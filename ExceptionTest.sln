@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameworkTester", "NetFrameworkTester\NetFrameworkTester.csproj", "{C30F4219-7EAD-44C4-B280-84C18D63B789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreFrameworkTester", "CoreFrameworkTester\CoreFrameworkTester.csproj", "{C60C7549-DCCE-486F-A5B4-9917FCB5128A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30F4219-7EAD-44C4-B280-84C18D63B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30F4219-7EAD-44C4-B280-84C18D63B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30F4219-7EAD-44C4-B280-84C18D63B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30F4219-7EAD-44C4-B280-84C18D63B789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60C7549-DCCE-486F-A5B4-9917FCB5128A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60C7549-DCCE-486F-A5B4-9917FCB5128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60C7549-DCCE-486F-A5B4-9917FCB5128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60C7549-DCCE-486F-A5B4-9917FCB5128A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F62988-E313-4505-9721-61E43334F9A0}
+	EndGlobalSection
+EndGlobal
